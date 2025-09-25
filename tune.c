@@ -11,6 +11,9 @@ BUİLDİNG: C LANG
 PURPOSE: DISK FORMATTING SHORTCUT
 CURRENT STATE: BETA AND NEW 
 
+Desigin Language: Türkçe // 
+English ? // NO // Soon 
+
 */
 
 
